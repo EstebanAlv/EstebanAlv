@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EstebanAlv
-- 👀 I’m interested in learning, programming with Python, problem solving and Finance. 
-- 🌱 I’m also looking for job opportunities...
+- 👋 Hi!, I’m Esteban (@EstebanAlv)
+- 👀 I’m interested in programming, Python, Finance and I really enjoy to solve problems. 
+- 🌱 Looking for job opportunities.
 
